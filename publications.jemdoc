@@ -1,0 +1,79 @@
+# jemdoc:menu{MENU}{index.html}, fwtitle, addcss{bibover-0.9/bibover.css},  #include{bibover-0.9/exbib.jeminc}
+= Dr. Haiqin Yang (楊海欽博士)
+
+== Summary
+Detailed can be found in [https://scholar.google.com.hk/citations?user=nfijDy4AAAAJ Google Scholar] or [https://dblp.uni-trier.de/pers/hd/y/Yang:Haiqin DBLP].  Some toolboxes can be downloaded [tools.html here].
+
+- [\#Books Books]
+- [\#BChapters Book Chapters]
+- [\#Confs Conferences]
+- [\#Journals Journal Articles]
+
+== Publications
+{{<h3 id=Books>Book </h3>}}
+. Haiqin Yang, Irwin King, and Michael R. Lyu. Sparse Learning under Regularization Framework: Theory and Applications. LAP Lambert Academic Publishing, 2011.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Machine Learning: Modeling Data Locally and Globally. Advanced Topics in Science and Technology in China: Machine Learning. Zhejiang University Press with Springer Verlag, 2008.
+
+{{<h3 id=Journals>Refereed Journal Articles</h3>}}
+. Zhan Zhang, Ze Hu, Haiqin Yang, Rong Zhu, and Decheng Zuo. Factorization machines and deep views-based co-training for improving answer quality prediction in online health expert question-answering services.  Journal of Biomedical Informatics 87: 21-36 (2018).
+. Haiqin Yang and Lap Pong Cheung. Implicit Heterogeneous Features Embedding in Deep Knowledge Tracing. Cognitive Computation, 10(1): 3-14, 2018. IF: 3.441.
+. Ze Hu, Zhan Zhang, Haiqin Yang, Qing Chen, Decheng Zuo. Predicting the Quality of Online Health Expert Question-Answering Services with Temporal Features in a Deep Learning Framework. Neurocomputing, 275: 2769-2782, 2018. IF: 3.211.
+. Junjie Hu, Haiqin Yang, Michael R. Lyu, Irwin King, and Anthony Man-Cho So. Online Nonlinear AUC Maximization for Imbalanced Datasets. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 29(4): 882-895, 2018. IF: 6.108.
+. Ze Hu, Zhan Zhang, Haiqin Yang, Qing Chen, Decheng Zuo. A Deep Learning Approach for Predicting the Quality of Online Health Expert Question-Answering Services. Journal of Biomedical Informatics 71: 241-253. 2017. IF: 2.753.
+. Chen Cheng, Haiqin Yang, Irwin King, and Michael R. Lyu. A Unified Point-of-Interest Recommendation Framework in Location-Based Social Networks. ACM Transactions on Intelligent Systems and Technology (TIST), 8(1): 10:1-10:21, 2016. IF: 9.15.
+. Haiqin Yang, Zenglin Xu, Michael R. Lyu, and Irwin King. Budget Constrained Non-Monotonic Feature Selection. Neural Networks, 71: 214-224, 2015. IF: 2.89.
+. Haiqin Yang, Kaizhu Huang, Irwin King, and Michael R. Lyu. Maximum Margin Semi-supervised Learning with Irrelevant Data. Neural Networks, 70: 90-102, 2015. IF: 2.89.
+. Haiqin Yang, Guang Ling, Yuxin Su, Michael R. Lyu, and Irwin King. Boosting Response Aware Model-Based Collaborative Filtering. IEEE Transactions on Knowledge and Data Engineering, 27(8): 2064-2077, 2015. IF: 2.476.
+. Haiqin Yang, Michael R. Lyu, and Irwin King. Big Data Oriented Online Learning Algorithms. Communications of the CCF, 10(11): 36-40, November, 2014.
+. Haiqin Yang, Michael R. Lyu, and Irwin King. Efficient Online Learning for Multi-Task Feature Selection. ACM Transactions on Knowledge Discovery from Data, 7(2): 1-27, August, 2013. IF: 1.147.
+. Haiqin Yang, Zenglin Xu, Jieping Ye, Irwin King, and Michael R. Lyu. Efficient Sparse Generalized Multiple Kernel Learning. IEEE Transactions on Neural Networks, 22(3): 433–446, March 2011. IF: 2.633.
+. Haiqin Yang, Kaizhu Huang, Irwin King, and Michael R. Lyu. Localized Support Vector Regression for Time Series Prediction. Neurocomputing, 72(10-12): 2659–2669, 2009. IF: 2.083.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Maxi-min Margin Machine: Learning Large Margin Classifiers Locally and Globally. IEEE Transactions on Neural Networks, 19(2): 260–272, February 2008. IF: 2.769.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Imbalanced Learning with Biased Minimax Probability Machine, IEEE Transactions on System, Man, and Cybernetics Part B, 36: 913–923, 2006. IF: 1.538.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Maximizing Sensitivity in Medical Diagnosis Using Biased Minimax Probability Machine. IEEE Transactions on Biomedical Engineering, 53: 821–831, 2006. IF: 2.302.
+. Kaizhu Huang, Haiqin Yang, Irwin King, Michael R. Lyu, and Laiwan Chan. The Minimum Error Minimax Probability Machine. Journal of Machine Learning Research, 5: 1253–1286, 2004. IF: 5.952.
+
+{{<h3 id=BChapters>Book Chapters</h3>}}
+. Haiqin Yang, Linkai Luo, Lap Pong Chueng, David Ling, and Francis Chin. Deep Learning and its Applications to Natural Language Processing. In Deep Learning: Fundamentals, Theory, and Applications, 2019.
+. Haiqin Yang, Kaizhu Huang, Zenglin Xu, Irwin King, and Michael R. Lyu. Semi-supervised Learning with Mixed Unlabeled Data. In Machine Learning and Its Applications 2011: 221-242.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Local Learning vs. Global Learning: An Introduction to Maxi-Min Margin Machine. In Support Vector Machines: Theory and Applications, volume 177 of Studies in Fuzziness and Soft Computing: 113-132. Springer-Verlag, 2005.
+. Haiqin Yang, Irwin King, Laiwan Chan, and Kaizhu Huang. Financial Time Series Prediction Using Non-fixed and Asymmetrical Margin Setting with Momentum in Support Vector Regression. In Neural Information Processing: Research and Development, volume 152 of Studies in Fuzziness and Soft Computing: 334-350. Springer-Verlag, 2004.
+. Kaizhu Huang, Irwin King, Michael R. Lyu, and Haiqin Yang. Improving Chow-Liu Tree Performance Based on Association Rules. In Neural Information Processing: Research and Development, volume 152 of Studies in Fuzziness and Soft Computing: 94-112. Springer-Verlag, 2004.
+
+{{<h3 id=Confs>Refereed Conferences</h3>}}
+. Wenxiang Jiao, Haiqin Yang, Irwin King and Michael R. Lyu. HiGRU: Hierarchical Gated Recurrent Units for Utterance-level Emotion Recognition. NAACL-HLT 2019.
+. Linkai Luo, Haiqin Yang, Sai Cheong Siu and Francis Y. L. Chin. Neural Machine Translation for Financial Listing Documents. ICONIP 2018.
+. Linkai Luo, Haiqin Yang, and Francis Y. L. Chin. EmotionX-DLC: Self-Attentive BiLSTM for Detecting Sequential Emotions in Dialogues. SocialNLP@ACL 2018. The second place in the shared task.
+. Zhou Cheng, Chun Yuan, Jiancheng Li, and Haiqin Yang. TreeNet: Learning Sentence Representations with Unconstrained Tree Structure. IJCAI 2018: 4005-4011.
+. Wenzhang Liu, Haiqin Yang, Yuewen Sun, and Changyin Sun. A Broad Neural Network Structure for Class Incremental Learning. ISNN 2018: 229-238.
+. Lap Pong Cheung and Haiqin Yang. Heterogeneous Features Integration in Deep Knowledge Tracing. ICONIP (2) 2017: 653-662. Best student paper awards finalist.
+. Yi Xu, Haiqin Yang, Lijun Zhang, Tianbao Yang. Efficient Non-Oblivious Randomized Reduction for Risk Minimization with Improved Excess Risk Guarantee. AAAI 2017: 2796-2802.
+. Yuxin Su, Haiqin Yang, Irwin King, and Michael R. Lyu. Distributed Information-Theoretic Metric Learning in Apache Spark. IJCNN 2016: 3306-3313.
+. Xiaotian Yu, Haiqin Yang, Irwin King, and Michael R. Lyu. Online Non-negative Dictionary Learning via Moment Information for Sparse Poisson Coding. IJCNN 2016: 5094-5101.
+. Shenglin Zhao, Tong Zhao, Haiqin Yang, Michael R. Lyu, Irwin King. STELLAR: Spatial-Temporal Latent Ranking for Successive Point-of-Interest Recommendation. AAAI 2016: 315-322. AR: 26%.
+. Xixian Chen, Haiqin Yang, Irwin King, and Michael R. Lyu. Training-Efficient Feature Map for Shift-Invariant Kernels. IJCAI 2015: 3395-3401. AR: 28.8%.
+. Junjie Hu, Haiqin Yang, Irwin King, Michael R. Lyu, and Anthony Man-Cho So. Kernelized Online Imbalanced Learning with Fixed Budgets. AAAI 2015: 2666-2672. AR: 11.95%.
+. Jichuan Zeng, Haiqin Yang, Irwin King, and Michael R. Lyu. A Comparison of Lasso-type Algorithms on Distributed Parallel Machine Learning Platforms. In NIPS Workshop on Distributed Machine Learning and Matrix Computations, Montreal, Canada, 2014.
+. Haiqin Yang, Zenglin Xu, Irwin King, and Michael R. Lyu. Non-Monotonic Feature Selection for Regression. ICONIP (2) 2014: 44-51.
+. Haiqin Yang, Junjie Hu, M.R. Lyu, and Irwin King. Online Imbalanced Learning with Kernels. In NIPS Workshop on Big Learning, Lake Tahoe, Nevada, USA, 2013.
+. Chenxia Wu, Haiqin Yang, Jianke Zhu, Jiemi Zhang, Irwin King, and M.R. Lyu. Sparse Poisson Coding for High Dimensional Document Clustering. IEEE BigData 2013: 512-517. AR: 20%.
+. Chen Cheng, Haiqin Yang, Michael R. Lyu, and Irwin King. Where You Like to Go Next: Successive Point-of-Interest Recommendation. IJCAI 2013: 2605-2611. AR: 413/1473 (26%).
+. Guang Ling, Haiqin Yang, Michael R. Lyu, and Irwin King. Response Aware Model-Based Collaborative Filtering. UAI 2012: 501-510. AR: 31%.
+. Chen Cheng, Haiqin Yang, Irwin King, and Michael R. Lyu. Fused Matrix Factorization with Geographical and Social Influence in Location-based Social Networks. AAAI 2012. AR: 26%.
+. Guang Ling, Haiqin Yang, Irwin King, Michael R. Lyu. Online Learning for Collaborative Filtering. WCCI 2012: 1-8.
+. Haiqin Yang, Shouyuan Chen, Michael R. Lyu, and Irwin King. Location-Based Topic Evolution. In MLBS’11: Proceedings of the 1st international workshop on Mobile location-based service: 89-98.
+. Haiqin Yang, Shenghuo Zhu, Irwin King, and Michael R. Lyu. Can Irrelevant Data Help Semi-supervised Learning, Why and How? CIKM 2011: 937-946. AR: 15%.
+. Haiqin Yang, Irwin King, and Michael R. Lyu. Online Learning for Multi-Task Feature Selection. CIKM 2010: 1693-1696. AR: 169/945 (17.9%).
+. Haiqin Yang, Zenglin Xu, Irwin King, and Michael R. Lyu. Online Learning for Group Lasso. ICML 2010: 1191-1198. AR: 152/594 (25.5%).
+. Zenglin Xu, Rong Jin, Haiqin Yang, Irwin King, and Michael R. Lyu. Simple and Efficient Multiple Kernel Learning by Group Lasso. ICML 2010: 1175-1182. AR: 152/594 (25.5%).
+. Haiqin Yang, Irwin King, and Michael R. Lyu. Multi-task Learning for One-class Classification. IJCNN 2010: 1-8.
+. Haiqin Yang and Irwin King. Ensemble Learning for Imbalanced E-commerce Transaction Anomaly Classification. ICONIP 2009: 866-874.
+. Haiqin Yang and Irwin King. Sprinkled Latent Semantic Indexing for Text Classification with background knowledge. ICONIP 2008: 53-60.
+. Haiqin Yang, Kaizhu Huang, Irwin King, and Michael R. Lyu. Efficient Minimax Clustering Probability Machine by Generalized Probability Product Kernel. WCCI 2008: 4014-4019.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Local Support Vector Regression for Time Series Prediction. IJCNN 2006: 1622-1627.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Learning Large Margin Classifiers Locally and Globally. ICML 2004: 401-408.
+. Kaizhu Huang, Haiqin Yang, Irwin King, and Michael R. Lyu. Learning Classifiers from Imbalanced Data Based On Biased Minimax Probability Machine. CVPR(2) 2004: 558-563.
+. Kaizhu Huang, Haiqin Yang, Irwin King, Michael R. Lyu, and Laiwan Chan. Biased Minimax Probability Machine for Medical Diagnosis. ISAIM 2004.
+. Haiqin Yang, Kaizhu Huang, Laiwan Chan, Irwin King, and Michael R. Lyu. Outliers Treatment in Support Vector Regression for Financial Time Series Prediction. ICONIP 2004: 1260-1265.
+. Haiqin Yang, Irwin King, and Laiwan Chan. Non-fixed and Asymmetrical Margin Approach to Stock Market Prediction Using Support Vector Regression. ICONIP 2002: 1398-1402.
+. Haiqin Yang, Laiwan Chan, and Irwin King. Support Vector Machine Regression for Volatile Stock Market Prediction. IDEAL 2002: 391-396.

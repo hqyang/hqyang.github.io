@@ -1,0 +1,39 @@
+# jemdoc:menu{MENU}{index.html}, fwtitle, addcss{bibover-0.9/bibover.css},  #include{bibover-0.9/exbib.jeminc}
+= Dr. Haiqin Yang (楊海欽博士) 
+
+{{
+<table class="imgtable"><tr><td>
+<img src="imgs/hqyang.jpg" alt="haiqin_portrait" width="100pt" height="150pt" />&nbsp;</td>
+<td align="left">
+<p>Machine Learning Research Scientist, Meitu (China) Limited, Hong Kong </p>
+<p>Adjunct Assistant Professor, Department of Computing, The Hang Seng University, Hong Kong </p>
+<p> Email: <a href="mailto:hqyang@ieee.org">hqyang[at]ieee[dot]org</a></p>
+<p>Homepage: <a href="https://hqyang.github.io">https://hqyang.github.io</a></p>
+</td>
+</tr></table>
+}}
+	
+== Short Biography
+My research interest lies in machine learning and related  applications.  Recently, I am focusing on developming machine learning technologies on fundamental natural language processing tasks, such as Chinese word segmentation, part-of-speech, etc. while keeping in mind on blockchain technologies.
+
+Here are my [https://scholar.google.com.hk/citations?user=nfijDy4AAAAJ Google Scholar] or [https://dblp.uni-trier.de/pers/hd/y/Yang:Haiqin DBLP]. If you would like to discuss any research problems, please send me an [hqyang@ieee.org email].
+ 	
+== Recent News
+- Paper "[https://www.dropbox.com/s/heq8ysw2so0mzti/NAACL_HLT_2019__Hi_GRU.pdf?dl=0 *HiGRU: Hierarchical Gated Recurrent Units for Utterance-level Emotion Recognition*]" was accepted in NAACL-HLT 2019.
+- Received *the 2018 Asia Pacific Neural Network Society (APNNS) Young Researcher Award*, see photos ([https://www.dropbox.com/s/4yt5pf1hom0i7uq/YRA1.jpeg?dl=0 certificate], [https://www.dropbox.com/s/ds6bqx7tnmvox87/YRA3.jpeg?dl=0 ceremony]).
+- Solution "[https://www.aclweb.org/anthology/W18-3506 *EmotionX-DLC: Self-AttentiveBiLSTM for Detecting Sequential Emotions in Dialogues*]" achieves the second place of SocialNLP@ACL 2018.
+- Paper "[https://www.dropbox.com/s/stqboc7xw3gykgs/treenet_ijcai18.pdf?dl=0 *TreeNet: Learning Sentence Representations with Unconstrained Tree Structure*]" was published in IJCAI.
+- Paper "[https://www.ncbi.nlm.nih.gov/pubmed/30240803 *Factorization machines and deep views-based co-training for improving answer quality prediction in online health expert question-answering services*]" was published in Journal of Biomedical Informatics.
+- Paper "[https://www.dropbox.com/s/sq5fxx4zt014qgu/DKT_CC.pdf?dl=0 *Implicit Heterogeneous Features Embedding in Deep Knowledge Tracing*]" was published in Cognitive Computation.
+
+== Quote
+~~~
+{}{raw}
+/---The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding. (Proverbs 9:10)/
+~~~
+##~~~
+##{}{Optionally empty highlight mode}
+##~~~
+ 	#Quote
+#	The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding. (Proverbs 9:10)
+
